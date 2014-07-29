@@ -4,7 +4,7 @@
 Finally, all of the company internal websites can easily get that exact look
 they pursue!
 
-# Installation
+## Installation
 
 Put the following line in you `Gemfile`:
 
@@ -12,12 +12,12 @@ Put the following line in you `Gemfile`:
 gem 'bootstra386-rails'
 ```
 
-# Usage
+## Usage
 
 [BOOTSTRA.386] is a [Bootstrap] 2 theme. Require `/*= bootstrap */` in your
 assets and use it as such.
 
-# LICENSE
+## LICENSE
 
 Copyright 2014 Genadi Samokovarov
 
